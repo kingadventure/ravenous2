@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ravenous2/static/css/main.f6826f86.chunk.css",
-    "main.js": "/ravenous2/static/js/main.b7f7c56e.chunk.js",
-    "main.js.map": "/ravenous2/static/js/main.b7f7c56e.chunk.js.map",
+    "main.js": "/ravenous2/static/js/main.33e622a2.chunk.js",
+    "main.js.map": "/ravenous2/static/js/main.33e622a2.chunk.js.map",
     "runtime-main.js": "/ravenous2/static/js/runtime-main.5535f7e8.js",
     "runtime-main.js.map": "/ravenous2/static/js/runtime-main.5535f7e8.js.map",
     "static/js/2.529e3ad2.chunk.js": "/ravenous2/static/js/2.529e3ad2.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.5535f7e8.js",
     "static/js/2.529e3ad2.chunk.js",
     "static/css/main.f6826f86.chunk.css",
-    "static/js/main.b7f7c56e.chunk.js"
+    "static/js/main.33e622a2.chunk.js"
   ]
 }
